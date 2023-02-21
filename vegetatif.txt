@@ -9,16 +9,16 @@
 /tanaman-generatif
 /fase-vegetatif
 /pada-tumbuhan
--fase-generatif
-fase-vegetatif
-generatif-pada-tumbuhan
-pertumbuhan pada tumbuhan
-pertumbuhan vegetatif
-fase vegetatif dan generatif
-vegetatif tumbuhan
-pertumbuhan generatif
-vegetatif pada tumbuhan
-tumbuhan vegetatif dan generatif
-fase pertumbuhan tumbuhan
-fase vegetatif dan generatif tanaman
-fase tanaman
+/fase-generatif
+/fase-vegetatif
+/generatif-pada-tumbuhan
+/pertumbuhan-pada-tumbuhan
+/pertumbuhan-vegetatif
+/fase-vegetatif-dan-generatif
+/vegetatif-tumbuhan
+/pertumbuhan-generatif
+/vegetatif-pada-tumbuhan
+/tumbuhan-vegetatif-dan-generatif
+/fase-pertumbuhan-tumbuhan
+/fase-vegetatif-dan-generatif-tanaman
+/fase-tanaman
